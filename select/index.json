@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "催眠術",
+  "base_artist": "女王蜂",
+  "createdAt": "2026-01-03T15:17:13.366267Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "催眠術(Acoustic version)",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/01_催眠術(Acoustic_version)_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "催眠術[Acoustic Version.]",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/02_催眠術[Acoustic_Version.]_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "催眠術[Acoustic Version.]",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/03_催眠術[Acoustic_Version.]_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "催眠術",
+      "artist": "S.H.E",
+      "has_synced": false,
+      "path": "select/04_催眠術_S.H.E.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "催眠術",
+      "artist": "Lay",
+      "has_synced": true,
+      "path": "select/05_催眠術_Lay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "催眠術 (Lay U Down)",
+      "artist": "Lay (레이)",
+      "has_synced": true,
+      "path": "select/06_催眠術_(Lay_U_Down)_Lay_(레이).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "催眠術",
+      "artist": "S.H.E.",
+      "has_synced": true,
+      "path": "select/07_催眠術_S.H.E..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "催眠術(Acoustic version)",
+      "artist": "QUEEN BEE",
+      "has_synced": true,
+      "path": "select/08_催眠術(Acoustic_version)_QUEEN_BEE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "超・催眠術",
+      "artist": "Queen Bee",
+      "has_synced": true,
+      "path": "select/09_超・催眠術_Queen_Bee.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "超・催眠術",
+      "artist": "女王蜂",
+      "has_synced": true,
+      "path": "select/10_超・催眠術_女王蜂.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "催眠術",
+      "artist": "アツミサオリ",
+      "has_synced": false,
+      "path": "select/11_催眠術_アツミサオリ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "催眠術",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/pl_01_催眠術_女王蜂.txt"
+    }
+  ]
+}
